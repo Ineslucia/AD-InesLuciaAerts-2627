@@ -1,0 +1,11 @@
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.lib.module.js
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.js
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.Config.js
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\HotReload\browser-tools-key.public.json
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\HotReload\browser-tools-key.private.json
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\EventsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\EventsApi.AssemblyInfoInputs.cache
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\EventsApi.AssemblyInfo.cs
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\EventsApi.csproj.CoreCompileInputs.cache
+C:\Users\inesa\source\repos\EventsApi\obj\Debug\net10.0\EventsApi.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inesa\\source\\repos\\EventsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\dtos\\ticketinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:dtos\\ticketinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\dtos\\eventqueryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:dtos\\eventqueryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\dtos\\eventquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:dtos\\eventquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\dtos\\eventmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:dtos\\eventmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\dtos\\eventinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:dtos\\eventinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|c:\\users\\inesa\\source\\repos\\eventsapi\\dtos\\eventdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B706753-86EC-4755-95C4-4A3FD4FF495D}|EventsApi.csproj|solutionrelative:dtos\\eventdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T17:12:31.711Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketInputDto.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\TicketInputDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TicketInputDto.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\TicketInputDto.cs",
+              "RelativeToolTip": "Dtos\\TicketInputDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:39:13.55Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\TicketDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\TicketDto.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\TicketDto.cs",
+              "RelativeToolTip": "Dtos\\TicketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:38:48.519Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventQueryExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventQueryExtensions.cs",
+              "RelativeDocumentMoniker": "Dtos\\EventQueryExtensions.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventQueryExtensions.cs",
+              "RelativeToolTip": "Dtos\\EventQueryExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:38:04.999Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventQueryDto.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventQueryDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EventQueryDto.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventQueryDto.cs",
+              "RelativeToolTip": "Dtos\\EventQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:37:29.981Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventMappings.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventMappings.cs",
+              "RelativeDocumentMoniker": "Dtos\\EventMappings.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventMappings.cs",
+              "RelativeToolTip": "Dtos\\EventMappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:36:47.372Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventInputDto.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventInputDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EventInputDto.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventInputDto.cs",
+              "RelativeToolTip": "Dtos\\EventInputDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:36:22.664Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EventDto.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventDto.cs",
+              "RelativeToolTip": "Dtos\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:36:00.285Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventDetailDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EventDetailDto.cs",
+              "ToolTip": "C:\\Users\\inesa\\source\\repos\\EventsApi\\Dtos\\EventDetailDto.cs",
+              "RelativeToolTip": "Dtos\\EventDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:35:36.92Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfGSoxUK4mA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inesa\\source\\repos\\EventsApi\\EventsApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inesa\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\11.0.0\\microsoft.entityframeworkcore.tools.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
